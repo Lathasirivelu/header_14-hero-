@@ -1,0 +1,347 @@
+body {
+    background-color: blue;
+    margin: 0px;
+    padding: 290px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    justify-content: space-around;
+}
+.SignUpForm {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+.input-box {
+    align-items: center;
+    width: 50%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.sign-up-btn1{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 50%;
+}
+.sign-up-btn {
+    background-color: skyblue;
+    color: whitesmoke;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.or {
+    text-align: center;
+    
+}
+
+.sign-up-btn.login-with-twitter {
+    background-color: #1DA1F2; 
+}
+.form {
+    background-color: white;
+    height: 530px;
+    width: 320px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    text-align: center;
+    border: 3px solid violet;
+}
+.form:hover{
+    border: 3px solid purple;
+    cursor: pointer;
+}
+.para{
+    cursor: pointer;
+
+}
+.para:hover{
+    border: 2px solid red;
+}
+.para1{
+    color: white;
+
+}
+.para1:hover{
+    cursor: pointer;
+    border: 2px solid violet;
+}
+.space-paragraph {
+    margin-top: 20px;
+}
+.btn{
+    color: white;
+    background-color: red;
+    text-align: left;
+    border-radius: 10px;
+}
+.nav1 {
+    border: 3px solid violet;
+    background-color: white;
+    color: yellow;
+    text-align: center;
+    padding: 20px;
+    position: fixed; 
+    top: 0;
+    width: 100%;
+    height: 20px;
+}
+
+.nav1 ul {
+    list-style: none;
+    padding: 0;
+}
+
+.nav1 li {
+    display: inline;
+    margin: 0 10px;
+    color: black;
+}
+.purchase{
+    color: white;
+    background-color: red;
+    height: 10px;
+    width: 10%;
+    border-radius: 10px;
+    padding: 4px;
+}
+.startup{
+    text-align: right;
+    justify-content:space-around ;   
+}
+.startup:hover{
+    cursor: pointer;
+    border: 2px solid yellow;
+}
+.overview:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+.prices:hover{
+    border: 2px solid green;
+    cursor: pointer;
+}
+.blog:hover{
+    cursor: pointer;
+    border:2px solid purple ;
+    
+}
+.feedback:hover{
+    border: 2px solid yellow;
+    cursor: pointer;
+}
+.purchase:hover{
+    border: 2px solid black;
+    cursor: pointer;
+}
+.sign-up-btn1:hover{
+    border: 2px solid red;
+    cursor: pointer;
+    border-radius: 25px;
+}
+.sign-up-btn:hover{
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 20px;
+}
+h1:hover{
+    border: 2px solid violet;
+    cursor: pointer;
+    width: 80%;
+}
+.SignUpForm {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+.input-box {
+    align-items: center;
+    width: 50%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.input-box:hover{
+    border: 3px solid green;
+    cursor: pointer;
+}
+.sign-up-btn1{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.sign-up-btn {
+    background-color: skyblue;
+    color: whitesmoke;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.or {
+    text-align: center;
+    
+}
+
+.sign-up-btn.login-with-twitter {
+    background-color: #1DA1F2; 
+}
+.form {
+    background-color: white;
+    height: 530px;
+    width: 320px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    text-align: center;
+    border: 3px solid violet;
+}
+.para{
+    cursor: pointer;
+
+}
+.para:hover{
+    border: 2px solid red;
+}
+.para1{
+    color: white;
+}
+.para1:hover{
+    cursor: pointer;
+    border: 2px solid violet;
+}
+.space-paragraph {
+    margin-top: 20px;
+}
+.btn{
+    color: white;
+    background-color: red;
+    text-align: left;
+    border-radius: 10px;
+}
+.btn:hover{
+    border-radius: 2px solid black;
+    cursor: pointer;
+    
+}
+.nav1 {
+    border: 3px solid violet;
+    background-color: blue;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 20px ;
+    position: fixed; 
+    top: 0;
+    width: 50%;
+    height: 20px;
+}
+.nav1:hover{
+    border: red 3px solid;
+    cursor: pointer;
+}
+
+.nav1 ul {
+    list-style: none;
+    padding: 10;
+}
+
+.nav1 li {
+    display: inline;
+    margin: 0 10px;
+color: white;
+}
+.purchase{
+    color: white;
+    background-color: red;
+    height: 10px;
+    width: 10%;
+    border-radius: 10px;
+    padding: 4px;
+}
+.startup{
+    text-align: right;
+    justify-content:space-around ;   
+}
+.overview:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+.prices:hover{
+    border: 2px solid green;
+    cursor: pointer;
+}
+.blog:hover{
+    cursor: pointer;
+    border:2px solid purple ;
+    
+}
+.feedback:hover{
+    border: 2px solid yellow;
+    cursor: pointer;
+}
+.purchase:hover{
+    border: 2px solid black;
+    cursor: pointer;
+}
+.sign-up-btn1:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+.sign-up-btn:hover{
+    border: 2px solid black;
+    cursor: pointer;
+}
+.article:hover{
+    cursor: pointer;
+    border: 2px solid yellow;
+}
+.sign-in:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+.btn:hover{
+    cursor: pointer;
+    border-radius: 5px solid green;
+}
+.or {
+    background-color: white;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+.or:hover{
+    border: 2px solid green;
+    cursor: pointer;
+}
+.checkbox:hover{
+    cursor: pointer;
+    background-color: #1DA1F2;
+}
+
+
+
+
